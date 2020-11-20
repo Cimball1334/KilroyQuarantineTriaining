@@ -1,4 +1,4 @@
-package Activity;
+package Inheritence.src.Activity;
 /**
  * Class that represents the object of a triangle that has one angle of 90 degrees
  * 

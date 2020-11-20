@@ -1,4 +1,5 @@
-package Perosnal;/**
+package Inheritence.src.Perosnal;
+/**
  * Creates the Square object
  * Extends Rectangle
  * 

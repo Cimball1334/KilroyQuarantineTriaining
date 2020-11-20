@@ -1,4 +1,4 @@
-package Activity;
+package Inheritence.src.Activity;
 /**
  * Shape interface for kilroy training activity
  * 

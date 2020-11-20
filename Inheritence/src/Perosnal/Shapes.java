@@ -1,4 +1,6 @@
-package Perosnal;public class Shapes {
+
+package Inheritence.src.Perosnal;
+public class Shapes {
     
     public static void main(String[] args) {
         Square tod = new Square(4);

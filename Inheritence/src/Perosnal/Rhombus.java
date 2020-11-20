@@ -1,3 +1,4 @@
+package Inheritence.src.Perosnal;
 
 /**
  * Rhombus Object
@@ -7,7 +8,7 @@
  * @author Craig Kimball
  * Date 10/29/2020
  */
-package Perosnal;
+
 public class Rhombus implements Quadrillateral{
 private int sideLength;
 private int diagonalP;

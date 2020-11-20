@@ -1,4 +1,4 @@
-package Activity;
+package Inheritence.src.Activity;
 /**
  * Class that represent the object of a triangle
  * 

@@ -1,4 +1,4 @@
-package Perosnal;
+package Inheritence.src.Perosnal;
 
 public interface Quadrillateral {
     

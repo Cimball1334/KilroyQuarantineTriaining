@@ -1,4 +1,4 @@
-package Activity;
+package Inheritence.src.Activity;
 /**
  * Class created to handle the instatiation of shape objects
  */

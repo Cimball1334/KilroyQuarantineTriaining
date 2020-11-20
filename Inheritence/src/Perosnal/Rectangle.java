@@ -1,4 +1,5 @@
-package Perosnal;/**
+package Inheritence.src.Perosnal;
+/**
  * 
  * Rectangle Object
  * Defines the rectangle instance of a Quadrillateral
